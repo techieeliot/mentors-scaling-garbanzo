@@ -1,0 +1,27 @@
+{
+  "name": "mentors-scaling-garbanzo",
+  "version": "1.0.0",
+  "description": "a test for node js and tailwind css",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build  src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techieeliot/mentors-scaling-garbanzo.git"
+  },
+  "keywords": [
+    "node",
+    "tailwind"
+  ],
+  "author": "Eliot Sanford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techieeliot/mentors-scaling-garbanzo/issues"
+  },
+  "homepage": "https://github.com/techieeliot/mentors-scaling-garbanzo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
