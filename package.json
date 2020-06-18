@@ -19,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/techieeliot/mentors-scaling-garbanzo/issues"
   },
-  "homepage": "https://github.com/techieeliot/mentors-scaling-garbanzo#readme",
   "dependencies": {
     "express": "^4.17.1",
     "tailwindcss": "^1.2.0"
